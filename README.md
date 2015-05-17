@@ -10,9 +10,10 @@ These signs "#" means section, subsection and so on.
 ### subsubsection
 Am I right?
 
-#### 4th
-
-yep
+#### Lists in Markdown
+* item first
+* item second
+* item third
 
 ##### subsubsubsubsection
 ?
